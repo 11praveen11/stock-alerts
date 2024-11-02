@@ -30,12 +30,6 @@
    cd stock-alerts
    ```
 
-2. **Install Required Packages**:
-   Install dependencies listed in `requirements.txt`:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 3. **Set Up API Keys**:
    - **AlphaVantage API Key**: Sign up at [AlphaVantage](https://www.alphavantage.co/) to get an API key.
    - **NewsAPI Key**: Sign up at [NewsAPI](https://newsapi.org/) to get an API key.
